@@ -30,7 +30,7 @@
 
 // contacts.js
 
-/*
+/* 
  * Розкоментуй і запиши значення
  * const contactsPath = ;
  */
